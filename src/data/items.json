@@ -22,5 +22,17 @@
     "name": "Car",
     "price": 14000,
     "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Steak",
+    "price": 50,
+    "imgUrl": "/imgs/steak.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Wine",
+    "price": 100,
+    "imgUrl": "/imgs/wine.jpg"
   }
 ]

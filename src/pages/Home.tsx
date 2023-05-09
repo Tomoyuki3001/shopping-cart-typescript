@@ -7,7 +7,7 @@ export default function Home() {
         <h1>Home</h1>
         <p style={{fontSize: "1.5rem"}}>This website is a shopping-cart site clone with TypeScript and Json data. A user can save the shopping data each time.</p>
         <div className=" d-flex justify-content-center">
-            <img style={{width: '50%', height: 'auto'}} src="./public/imgs/store.png" alt="" />
+            <img style={{width: '50%', height: 'auto'}} src={"./public/imgs/store.png"} alt="" />
         </div>
         <div className=" d-flex justify-content-center">
         <p style={{fontSize: "2rem", padding:'5% 0% 0% 0%'}}>Just play around click the "Store" button below.</p>
